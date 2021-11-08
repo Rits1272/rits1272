@@ -21,7 +21,7 @@
 - [Peer-to-Peer Chat app using WebRTC and React Native](https://medium.com/nerd-for-tech/peer-to-peer-chat-app-using-webrtc-and-react-native-6c15759f92ec?source=rss-739dc89593b4------2)
 - [How to make a slack bot in python using Slack’s RTM API](https://ritikjain1272.medium.com/how-to-make-a-slack-bot-in-python-using-slacks-rtm-api-335b393563cd?source=rss-739dc89593b4------2)
 - [Making Drawer Navigator and a splash screen on your react native app!](https://ritikjain1272.medium.com/making-drawer-navigator-and-a-splash-screen-on-your-react-native-app-2fb561ee17f1?source=rss-739dc89593b4------2)
-- [Firebase and DialogFlow with React Native made easy(Part 3)](https://medium.com/analytics-vidhya/firebase-and-dialogflow-with-react-native-made-easy-part-3-5bc42793b164?source=rss-739dc89593b4------2)
+- [Firebase and DialogFlow with React Native made easy&lpar;Part 3&rpar;](https://medium.com/analytics-vidhya/firebase-and-dialogflow-with-react-native-made-easy-part-3-5bc42793b164?source=rss-739dc89593b4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
