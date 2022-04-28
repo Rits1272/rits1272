@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rits1272&label=Profile%20views&color=0e75b6&style=flat" alt="rits1272" /> </p>
 
-- 🌱 I’m currently learning **RoR**
+- 🌱 Digging deep into backend development
 
 - 👨‍💻 All of my projects are available at [https://github.com/rits1272](https://github.com/rits1272)
 
