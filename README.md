@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ritikjain1272](https://medium.com/@ritikjain1272)
 
-- 💬 Ask me about **react, react-native and backend development**
+- 💬 Ask me about **distributed, scalable systems**
 
 - 📫 How to reach me **ritikjain1272@gmail.com**
 
