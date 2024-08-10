@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ritik Jain</h1>
-<h3 align="center">An open-source enthusiast with an ever longing thirst for learning</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rits1272&label=Profile%20views&color=0e75b6&style=flat" alt="rits1272" /> </p>
 
-- 🌱 Digging deep into backend development
+- 🌱 Learning more on how to build distributed and scalable systems!
 
 - 👨‍💻 All of my projects are available at [https://github.com/rits1272](https://github.com/rits1272)
 
 - 📝 I regularly write articles on [https://medium.com/@ritikjain1272](https://medium.com/@ritikjain1272)
-
-- 💬 Ask me about **distributed, scalable systems**
 
 - 📫 How to reach me **ritikjain1272@gmail.com**
 
